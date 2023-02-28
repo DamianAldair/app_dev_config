@@ -1,3 +1,8 @@
+## 0.0.3 Some documentation added
+
+- Dartdoc comments added
+- Minor fixes
+
 ## 0.0.2 More modifications
 
 - Permisions for Android

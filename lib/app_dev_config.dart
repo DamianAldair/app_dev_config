@@ -8,6 +8,8 @@ import 'package:app_dev_config/src/writer/android_manifest_xml.dart';
 import 'package:app_dev_config/src/writer/build_gradle.dart';
 import 'package:app_dev_config/src/writer/info_plist.dart';
 
+/// Main function that reads the YAML file,
+/// parses the configuration and applies it to the project
 void applyUserConfig(String configFile) {
   try {
     stdout.writeln(warning);
