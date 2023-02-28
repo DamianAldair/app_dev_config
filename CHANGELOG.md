@@ -1,4 +1,8 @@
-## 0.0.3 Some documentation added
+## 0.0.4 Example
+
+- Example added
+
+## 0.0.3 Documentation
 
 - Dartdoc comments added
 - Minor fixes
