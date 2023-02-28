@@ -1,0 +1,26 @@
+name: app_dev_config
+description: Make modifications that are normally made to a platform native files from the 'pubspec.yaml'.
+version: 0.0.2
+maintainer: Damian Aldair
+# homepage:
+# repository:
+
+environment:
+  sdk: ">=2.12.6 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  args: ^2.3.1
+  yaml: ^3.1.1
+  path: ^1.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  # assets:
+  #   - images/a_dot_burr.jpeg
