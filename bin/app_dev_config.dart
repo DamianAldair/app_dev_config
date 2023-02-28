@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:app_dev_config/main.dart';
+import 'package:app_dev_config/app_dev_config.dart';
 import 'package:app_dev_config/src/parser.dart';
 import 'package:app_dev_config/src/util.dart';
 import 'package:app_dev_config/src/util/config_file.dart';
