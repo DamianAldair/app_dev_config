@@ -1,3 +1,8 @@
+## 0.0.5 Minor bug fixes
+
+- Package version fixed
+- build.gradle file path fixed
+
 ## 0.0.4 Example
 
 - Example added

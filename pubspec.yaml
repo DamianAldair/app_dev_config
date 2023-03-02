@@ -1,6 +1,6 @@
 name: app_dev_config
 description: Make modifications that are normally made to a platform native files from the 'pubspec.yaml'.
-version: 0.0.4
+version: 0.0.5
 maintainer: Damian Aldair
 homepage: https://github.com/DamianAldair/app_dev_config
 repository: https://github.com/DamianAldair/app_dev_config

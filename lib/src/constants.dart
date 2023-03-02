@@ -10,4 +10,4 @@ const String androidManifestFile = 'android/app/src/main/AndroidManifest.xml';
 
 const String infoPlistFile = 'ios/Runner/Info.plist';
 
-const String androidGradleFile = 'android/app/src/build.gradle';
+const String androidGradleFile = 'android/app/build.gradle';
